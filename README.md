@@ -1,4 +1,4 @@
-本服务示例为：接入Dubbo,和Cat的示例。具体搭建过程参：https://czwer.github.io/2016/11/10/%E5%85%AC%E5%8F%B8%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%90%AD%E5%BB%BA/
+本服务示例为：接入Dubbo,和Cat的示例。具体搭建过程参：https://czwer.github.io/2016/11/16/Dubbo+Cat%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/
 
 	1.目录介绍：
 		exmaple-service-api：定义接口，方便其他工程引用，会打成jar包，部署私服供其他项目引用
